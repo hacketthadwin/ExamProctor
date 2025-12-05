@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1qdv+teBNo=",
+  "success": true,
+  "projectFilePath": "E:\\ProctoringSolution\\ProctorLauncher\\ProctorLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adars\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\adars\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
