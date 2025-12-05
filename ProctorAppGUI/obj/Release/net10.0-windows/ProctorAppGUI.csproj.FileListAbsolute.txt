@@ -1,0 +1,16 @@
+E:\ProctoringSolution\ProctorAppGUI\bin\Release\net10.0-windows\ProctorAppGUI.exe
+E:\ProctoringSolution\ProctorAppGUI\bin\Release\net10.0-windows\ProctorAppGUI.deps.json
+E:\ProctoringSolution\ProctorAppGUI\bin\Release\net10.0-windows\ProctorAppGUI.runtimeconfig.json
+E:\ProctoringSolution\ProctorAppGUI\bin\Release\net10.0-windows\ProctorAppGUI.dll
+E:\ProctoringSolution\ProctorAppGUI\bin\Release\net10.0-windows\ProctorAppGUI.pdb
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.Form1.resources
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.csproj.GenerateResource.cache
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.AssemblyInfoInputs.cache
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.AssemblyInfo.cs
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.csproj.CoreCompileInputs.cache
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.dll
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\refint\ProctorAppGUI.dll
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.pdb
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ProctorAppGUI.genruntimeconfig.cache
+E:\ProctoringSolution\ProctorAppGUI\obj\Release\net10.0-windows\ref\ProctorAppGUI.dll
