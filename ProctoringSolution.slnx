@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProctorApp/ProctorApp.vcxproj" Id="1625f7e9-30b4-4025-b274-3217448f9880" />
+  <Project Path="ProctorAppGUI/ProctorAppGUI.csproj" Id="4a5273bb-073f-42cf-9889-4eff6f5f2cb7" />
+  <Project Path="ProctorCommon/ProctorCommon.csproj" />
+  <Project Path="ProctorLauncher/ProctorLauncher.csproj" Id="0f38e7f4-3ede-441c-b90a-69190211a636" />
+  <Project Path="ProctorService/ProctorService.csproj" />
+  <Project Path="QuickTest/QuickTest.csproj" />
+</Solution>
